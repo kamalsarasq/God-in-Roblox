@@ -1,3 +1,5 @@
+-- made by kamalsarasq
+
 local HttpService = game:GetService("HttpService")
 
 -- // FUNCTION TO MANIPULATE STRING //
